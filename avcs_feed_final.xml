@@ -9,7 +9,7 @@
     </currencies>
     <offers>
       <offer id="1" available="true">
-        <name>Midjourney: полный курс</name>
+        <name>Midjourney: Полнейший курс</name>
         <url>https://averycreativeschool.ru/?utm_source=habrcareer&amp;utm_medium=feed&amp;utm_campaign=education</url>
         <picture>https://static.tildacdn.com/tild6336-3438-4137-a361-346430366334/Frame_13_8.png</picture>
         <price>32000</price>
@@ -41,7 +41,7 @@
       </offer>
 
       <offer id="2" available="true">
-        <name>ИИ-видео: большой курс</name>
+        <name>ИИ-видео: Большой курс</name>
         <url>https://averycreativeschool.ru/aivideo?utm_source=habrcareer&amp;utm_medium=feed&amp;utm_campaign=education</url>
         <picture>https://static.tildacdn.com/tild3539-6230-4161-a332-336164366263/Frame_14_4.png</picture>
         <price>45000</price>
